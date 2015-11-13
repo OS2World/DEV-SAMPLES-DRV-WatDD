@@ -1,4 +1,4 @@
-# DRV-SAMPLE-
+# DRV-SAMPLE-WatDD
 Physical Device Driver Libraries for Watcom C/C++ 10. This package is a set of libraries for developing physical device drivers (PDDs) for OS/2 with revision 10 of the Watcom C++ compiler.
 
 LICENSE
